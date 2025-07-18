@@ -3,7 +3,20 @@
   const h2 = document.querySelector("h2");
   const el3 = document.querySelector('a[href="#videohd"]');
   if (h2) h2.innerHTML = "𝗕𝗬𝗣𝗔𝗦𝗦 𝗬𝗘𝗨𝗠𝗢𝗡𝗘𝗬";
-  if (el3) el3.innerHTML = `<a href="https://t.me/" target="_blank">©Copyright 2025 by R2lx</a>`;
+  if (el3) {
+  el3.innerHTML = `<a id="rainbow-text" href="https://t.me/" target="_blank" style="font-weight:bold;">©Copyright 2025 by R2lx</a>`;
+
+  const colors = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"];
+  let i = 0;
+
+  setInterval(() => {
+    const el = document.getElementById("rainbow-text");
+    if (el) {
+      el.style.color = colors[i % colors.length];
+      i++;
+    }
+  }, 300); // đổi màu mỗi 300ms
+  }
   function toigiandemYeumoney() {
     const el1 = document.querySelector('.box-video-title');
     if (el1) el1.textContent = "🚀 Bураѕѕ đã khởi động đợi!";
