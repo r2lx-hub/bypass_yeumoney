@@ -15,3 +15,6 @@ Sau khi cài xong thì thử vượt Yeumoney và trải nghiệm!
 
 > [!WARNING]
 Lưu ý: Gặp lỗi thì comment vào github để fix. Vui lòng ghi Credit nếu có sử dụng code!
+
+Mua code 10k
+https://discord.gg/6Rzx2FgT
