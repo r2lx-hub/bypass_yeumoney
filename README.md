@@ -9,7 +9,7 @@ Bypass Yeumoney - Công cụ hỗ trợ vượt link không cần chạm tay, g�
 ### Bước 1: Cài đặt extensions Tampermonkey
 Với điện thoại chrome không hỗ trợ extensions thì có thể sử dụng các trình duyệt hỗ trợ như Firefox, Quetta,...
 ### Bước 2: Cài đặt Bypass
-Sau khi tải Tampermonkey bấm vào đây để tự động cài đặt: [Install Bypass](https://github.com/dai26032007/bypass-yeumoney/raw/main/tampermonkey.user.js)
+Sau khi tải Tampermonkey bấm vào đây để tự động cài đặt: [Install Bypass](https://raw.githubusercontent.com/r2lx-hub/bypass_yeumoney/refs/heads/main/tampermonkey.user.js)
 
 Sau khi cài xong thì thử vượt Yeumoney và trải nghiệm!
 
