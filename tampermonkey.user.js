@@ -7,5 +7,5 @@
 // @require      https://raw.githubusercontent.com/r2lx-hub/bypass_yeumoney/refs/heads/main/bypass_link_yeumoney.js
 // @match        https://yeumoney.com/*
 // @exclude      https://yeumoney.com/quangly/*
-// @icon         
+// @icon         https://raw.githubusercontent.com/r2lx-hub/bypass_yeumoney/refs/heads/main/logo.svg
 // ==/UserScript==
