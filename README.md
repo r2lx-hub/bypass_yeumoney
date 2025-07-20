@@ -2,7 +2,7 @@
 # Bypass Yeumoney
 
 Bypass Yeumoney - Công cụ hỗ trợ vượt link không cần chạm tay, gặp lỗi cũng tự động khác phục
-
+ ## Code dễ giải mã
 
 ## Hướng dẫn cài đặt
 
